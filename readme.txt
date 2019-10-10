@@ -5,5 +5,5 @@
 5
 Creating a new branch is quick and simple....
 -no-ff---
-dev change
-bug fixed
+dev change123
+>>>>>>> Stashed changes
