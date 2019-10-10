@@ -6,4 +6,3 @@
 Creating a new branch is quick and simple....
 -no-ff---
 dev change123
->>>>>>> Stashed changes
