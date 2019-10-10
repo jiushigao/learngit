@@ -1,4 +1,4 @@
-1
+ï»¿1
 2
 3
 4
@@ -7,7 +7,6 @@ Creating a new branch is quick and simple....
 -no-ff---
 dev change123
 bug fixed
-À´µãÉ§µÄ
-À´µã¸ÕµÄ
-¸ãÒ»¸ã
-
+æ¥ç‚¹éªšçš„
+æ¥ç‚¹åˆšçš„
+æä¸€æå•Š
