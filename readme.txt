@@ -3,5 +3,5 @@
 3
 4
 5
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple....
 -no-ff
